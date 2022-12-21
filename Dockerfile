@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:9.0-jdk17-corretto-al2 
+FROM tomcat:9.0-jdk17-corretto-al2 
 
 # Maintainer 
 MAINTAINER "valaxytech@gmail.com" 
